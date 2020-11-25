@@ -3,6 +3,11 @@
 This is a bot that will do the rolls for you.
 It will also use the reward points and will try to buy boosts.
 
+Prerequesites:
+- Linux Server with xfce4 or similar xserver running
+
+this cannot run on Windows. Only the tampermonkey script may work, but who builds windows bots?!
+
 How to use:
 1. install chromium-browser
 2. create an account on https://freebitco.in/?r=481926 (use this link to support me, won't hurt you)
