@@ -1,4 +1,6 @@
 # freebitcoin-bot
+As a Raspberry Pi 3 B project, I tried to create some form of bot.
+
 
 This is a bot that will do the rolls for you.
 It will also use the reward points and will try to buy boosts.
